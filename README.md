@@ -5,6 +5,7 @@
 
 
 ![João Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoEduardoRRocha&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEduardoRRocha&hide_progress=true)
 
 ## Tecnologias
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -17,4 +18,4 @@
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEduardoRRocha&hide_progress=true)
+
