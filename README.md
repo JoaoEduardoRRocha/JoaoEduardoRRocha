@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João Rocha 👋🏼
 
-[![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://joaoeduardoribeirorocha.com.br/)
+[![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://joaorochadev.com/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoedrocha/)
 
 ![João Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoEduardoRRocha&show_icons=true&theme=dracula)
